@@ -37,3 +37,5 @@ This project is for collecting tweets from X about Claude Code.
 [`物理地址在中国大陆怎么从零开始使用上Claude Code`](https://x.com/10k_ai/status/1935189386670588378)
 
 [`Claude Code的GUI`](https://x.com/mufeedvh/status/1935703290471149759)
+
+[`claude-code-costs 作者用 Claude Code（以及一般的编码代理）进行了一整月的学习，详细记录了自己的心得`](https://x.com/PhilippSpiess/status/1932923113995432242)
