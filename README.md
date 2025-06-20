@@ -41,3 +41,5 @@ This project is for collecting tweets from X about Claude Code.
 [`claude-code-costs 作者用 Claude Code（以及一般的编码代理）进行了一整月的学习，详细记录了自己的心得`](https://x.com/PhilippSpiess/status/1932923113995432242)
 
 [`ccusage 的作者全身心投入`](https://x.com/ryoppippi/status/1935266850751074728)
+
+[`使用 Claude Code / CC / ClaudeCode的技巧 / Tips`](https://x.com/10k_ai/status/1935915463663620159)
