@@ -41,3 +41,6 @@ It is strongly recommended to read the complete English documentation for Claude
 [`Tips for using Claude Code / CC / ClaudeCode`](https://x.com/10k_ai/status/1935915463663620159)
 
 [`使用 Claude Code / CC / ClaudeCode的技巧 / Tips`](https://x.com/10k_ai/status/1935915463663620159)
+
+[`The power of Claude Code by dotey`](https://x.com/dotey/status/1936574058264662184)
+[`CC 的强大 by 宝玉`](https://x.com/dotey/status/1936574058264662184)
