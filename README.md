@@ -45,3 +45,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`The power of Claude Code by dotey`](https://x.com/dotey/status/1936574058264662184)
 
 [中] [`CC 的强大 by 宝玉`](https://x.com/dotey/status/1936574058264662184)
+
+[英] [`Steve_Yegge's late-night blog post about Claude Code`](https://x.com/Steve_Yegge/status/1898993080931611112)
+
+[中] [`Steve_Yegge 关于Claude Code 的深夜博文`](https://x.com/Steve_Yegge/status/1898993080931611112)
