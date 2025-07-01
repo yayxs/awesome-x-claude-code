@@ -49,3 +49,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`Steve_Yegge's late-night blog post about Claude Code`](https://x.com/Steve_Yegge/status/1898993080931611112)
 
 [中] [`Steve_Yegge 关于Claude Code 的深夜博文`](https://x.com/Steve_Yegge/status/1898993080931611112)
+
+[英] [`CCSeva – a native macOS menu bar app that shows real-time Claude Code usage right from your menu bar`](https://x.com/Iamshankhadeep/status/1939357857033626074)
+
+[中] [`CCSeva – 一个原生的 macOS 任务栏应用，可以在任务栏直接显示 Claude Code 实时使用情况`](https://x.com/Iamshankhadeep/status/1939357857033626074)
