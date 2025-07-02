@@ -57,3 +57,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`Latent Space podcast interview with Anthropic team about Claude Code`](https://x.com/latentspacepod/status/1920240470296572316)
 
 [中] [`Latent Space 播客采访 Anthropic 团队关于 Claude Code 的内容`](https://x.com/latentspacepod/status/1920240470296572316)
+
+[英] [`Anysphere hires former Anthropic leaders for Cursor`](https://x.com/btibor91/status/1940125489311752306)
+
+[中] [`Anysphere 公司为其编程应用 Cursor 聘请了两位前 Anthropic 领导者`](https://x.com/btibor91/status/1940125489311752306)
