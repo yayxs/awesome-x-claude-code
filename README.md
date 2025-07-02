@@ -53,3 +53,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`CCSeva – a native macOS menu bar app that shows real-time Claude Code usage right from your menu bar`](https://x.com/Iamshankhadeep/status/1939357857033626074)
 
 [中] [`CCSeva – 一个原生的 macOS 任务栏应用，可以在任务栏直接显示 Claude Code 实时使用情况`](https://x.com/Iamshankhadeep/status/1939357857033626074)
+
+[英] [`Latent Space podcast interview with Anthropic team about Claude Code`](https://x.com/latentspacepod/status/1920240470296572316)
+
+[中] [`Latent Space 播客采访 Anthropic 团队关于 Claude Code 的内容`](https://x.com/latentspacepod/status/1920240470296572316)
