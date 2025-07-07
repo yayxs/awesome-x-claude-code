@@ -61,3 +61,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`Anysphere hires former Anthropic leaders for Cursor`](https://x.com/btibor91/status/1940125489311752306)
 
 [中] [`Anysphere 公司为其编程应用 Cursor 聘请了两位前 Anthropic 领导者`](https://x.com/btibor91/status/1940125489311752306)
+
+[英] [`Anthropic Revenue Hits $4 Billion Annual Pace, Competition with Cursor Intensifies`](https://x.com/amir/status/1940112745346793862)
+
+[中] [`Anthropic 年收入达到 40 亿美元，与 Cursor 的竞争加剧`](https://x.com/amir/status/1940112745346793862)
