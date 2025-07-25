@@ -72,4 +72,4 @@ This project is for collecting tweets from X about Claude Code.
 
 [英] [`CCProxy - Use any AI model with Claude Code`](https://github.com/orchestre-dev/ccproxy)
 
-[中] [`CCProxy - 让Claude Code使用任何AI模型 - OpenAI、Gemini、Groq、OpenRouter和通过Ollama的本地模型。具有智能路由和流支持的通用API翻译代理。`](https://github.com/orchestre-dev/ccproxy)
+[中] [`CCProxy - 通用API翻译代理，让Claude Code可以使用任何AI模型（如OpenAI、Gemini、本地Ollama等），并支持智能路由和流式传输。`](https://github.com/orchestre-dev/ccproxy)
