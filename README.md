@@ -69,3 +69,7 @@ This project is for collecting tweets from X about Claude Code.
 [英] [`Claude Code and Kimi k2`](https://x.com/_kaichen/status/1944410072496390468)
 
 [中] [`我写了一个 kimicc 命令行工具，只需要运行 npx kimicc 即可安装使用 Claude Code on Kimi K2，作为原版 Claude Code 的国产平替`](https://x.com/_kaichen/status/1944410072496390468)
+
+[英] [`CCProxy - Use any AI model with Claude Code`](https://github.com/orchestre-dev/ccproxy)
+
+[中] [`CCProxy - 让Claude Code使用任何AI模型 - OpenAI、Gemini、Groq、OpenRouter和通过Ollama的本地模型。具有智能路由和流支持的通用API翻译代理。`](https://github.com/orchestre-dev/ccproxy)
