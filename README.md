@@ -1,5 +1,4 @@
-<pre style="display: inline-block; text-align: left;">
- ██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
+██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
 ██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝
 ██║     ██║     ███████║██║   ██║██║  ██║█████╗  
 ██║     ██║     ██╔══██║██║   ██║██║  ██║██╔══╝  
@@ -68,8 +67,12 @@ This project is for collecting tweets from X about Claude Code.
 
 [英] [`Claude Code and Kimi k2`](https://x.com/_kaichen/status/1944410072496390468)
 
-[中] [`我写了一个 kimicc 命令行工具，只需要运行 npx kimicc 即可安装使用 Claude Code on Kimi K2，作为原版 Claude Code 的国产平替`](https.com/_kaichen/status/1944410072496390468)
+[中] [`我写了一个 kimicc 命令行工具，只需要运行 npx kimicc 即可安装使用 Claude Code on Kimi K2，作为原版 Claude Code 的国产平替`](https://x.com/_kaichen/status/1944410072496390468)
 
 [英] [`Claude Code is getting a new feature: custom sub-agents`](https://x.com/sidbidasaria/status/1948495478146167251)
 
 [中] [`Claude Code 即将迎来一项全新功能：自定义子代理`](https://x.com/sidbidasaria/status/1948495478146167251)
+
+[英] [`CCProxy - Use any AI model with Claude Code`](https://github.com/orchestre-dev/ccproxy)
+
+[中] [`CCProxy - 通用API翻译代理，让Claude Code可以使用任何AI模型（如OpenAI、Gemini、本地Ollama等），并支持智能路由和流式传输。`](https://github.com/orchestre-dev/ccproxy)
