@@ -1,6 +1,6 @@
 <pre style="display: inline-block; text-align: left;">
-  ____ _                 _         ____          _      
- / ___| | __ _ _   _  __| | ___   / ___|___   __| | ___ 
+  ____ _                 _         ____          _
+ / ___| | __ _ _   _  __| | ___   / ___|___   __| | ___
 | |   | |/ _` | | | |/ _` |/ _ \ | |   / _ \ / _` |/ _ \
 | |___| | (_| | |_| | (_| |  __/ | |__| (_) | (_| |  __/
  \____|_|\__,_|\__,_|\__,_|\___|  \____\___/ \__,_|\___|
@@ -74,6 +74,6 @@ This project is for collecting tweets from X about Claude Code.
 
 [中] [`解码 Claude Code - 是什么让 Claude Code 如此优秀`](https://x.com/nuwandavek/status/1958548877809737869)
 
-[英] [`Claude Code provider switcher built with Electron`](https://x.com/Jason_Young1231/status/1956277960840778062) – an Electron utility for backing up and swapping `settings.json` so you can toggle between the official provider, Qwen, Zhipu GLM, and other third-party services in one click.
+[英] [`Claude Code provider switcher built with Electron`](https://x.com/Jason_Young1231/status/1956277960840778062)
 
-[中] [`Claude Code 供应商切换器`](https://x.com/Jason_Young1231/status/1956277960840778062) —— 基于 Electron，可备份并切换 `settings.json`，支持 A 社官方、Qwen、智谱 GLM 等多家供应商的一键切换。
+[中] [`Claude Code 供应商切换器`](https://x.com/Jason_Young1231/status/1956277960840778062)
